@@ -179,5 +179,15 @@
 
 --------------
     
+## TABLA 
+
+                    
+NOMBRE  |  GITHUB
+------------- | -------------
+Angel Salazar Rocha  | (https://github.com/AngelSalazarRochaITNL)
+Martin Cabrera  | (https://github.com/MartinCabrera137)
+Cesar Castro | (https://github.com/Cesar-CCS)
+
+---------------
 
 
