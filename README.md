@@ -178,7 +178,29 @@
 ![](https://github.com/ItzaBesanilla/PM1/blob/f4fe6d24d3807cb1da1138f948fec555564c2598/Imagenes/Listar%20commits.png)
 
 --------------
-    
+
+## AGREGAR FOTO DE PERFIL
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/1-Foto.png)
+
+### Agregar doble factor de autorizacion
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/2-Autentificacion%20doble.png)
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/2-Autentificacion%20doble(2).png)
+
+### Añadir SSH
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/3-SSH.png)
+
+
+## USO SOCIAL DE GITHUB
+
+### - Seguir repositorios y añadir estrellas.
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/4-Siguiendo.png)
+
+
 ## TABLA 
 
                     
@@ -190,4 +212,22 @@ Cesar Castro | (https://github.com/Cesar-CCS)
 
 ---------------
 
+## COLABORADORES
 
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/6-AgregarColaborador.png)
+
+## CREAR ORGANIZACION
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/7-CrearOrganizacion.png)
+
+## CREAR EQUIPOS
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/8-CrearEquipos.png)
+
+## HACER FORKS
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/9-HacerForks.png)
+
+## CREAR RAMAS
+
+![](https://github.com/ItzaBesanilla/PM1/blob/7406966b90c5246d930c1da7d2c6590e26499734/Imagenes/Examen-Imagenes/10-CrearRamas.png)
